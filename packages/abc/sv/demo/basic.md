@@ -42,7 +42,7 @@ import { Component } from '@angular/core';
       </sv>
       <sv label="Value Size">
         <sv-value>Default</sv-value>
-        <sv-value size="small">Samll</sv-value>
+        <sv-value size="small">Small</sv-value>
         <sv-value size="large">Large</sv-value>
       </sv>
     </sv-container>
